@@ -7,7 +7,7 @@ let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
-// Dummy Questions for just now
+// Dummy Questions 
 let questions = [
     {
         question: 'Inside which HTML element do we put the JavaScript??',
