@@ -113,10 +113,9 @@ choices.forEach(choice => {
     });
 });
 
-console.log(score);
 incrementScore = num => {
     score += num;
-    console.log(score);
+    // console.log(score);
     scoreText.innerText = score;
 };
 
