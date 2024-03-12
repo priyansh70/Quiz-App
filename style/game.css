@@ -46,3 +46,17 @@
 .hide-main-text{
     text-align: center;
 }
+
+#progressBar{
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid #56a5eb;
+    margin-top: 1.5rem;
+    box-sizing: border-box;
+}
+
+#progressBarFull{
+    height: 3.6rem;
+    background-color: #56a5eb;
+    width: 0%;
+}
